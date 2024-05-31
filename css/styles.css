@@ -135,6 +135,8 @@ p {
 }
 
 .section-solution {
+  margin: 0 auto;
+  padding: 188px 0;
   background-repeat: no-repeat;
   background-position: center;
   height: 600px;
