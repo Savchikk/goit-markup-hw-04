@@ -135,17 +135,17 @@ p {
 }
 
 .section-solution {
-  background-image: linear-gradient(
-      rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7)
-    ),
-    url(../images/people-office\ 1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   height: 600px;
   background-size: cover;
   max-width: 1440px;
   background: #2e2f42;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/people-office\ 1.jpg);
 }
 
 .container-effective {
